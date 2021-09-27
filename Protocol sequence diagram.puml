@@ -1,0 +1,24 @@
+@startuml
+participant Client
+Client -> Server : ask for connection
+alt if new socket can be created or queue is not full
+Server -> Client : OK
+else new socket createion is not allowed or queue is full
+Server -> Client : not OK
+end
+...
+alt if message was on console
+Client -> Server : send new message
+Server -> Client : new message have arrived
+end
+...
+alt if message was come from other client
+-> Server : get message from other client
+Server -> Client : new message have arrived
+end
+participant Server
+@enduml
+
+Для подключения к серверу необходимо создать сокет, запросить подключение у серверного сокета, если от сервера
+приходит подтверждение подключения, то можно обмениваться данными. Сервер присылает сообщения по мере поступления от других клиентов,
+т.е. получается схема обмена, вида не "запрос-ответ", а сервер является, по сути, ширкоковещательным маршрутизатором.
