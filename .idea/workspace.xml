@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54658588-b864-404b-a804-c702f683174e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yXyYpIDkddfed5UuASJd9bOG3v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laptop\IdeaProjects\TKSServer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poly.server.Main" />
+      <module name="TKSServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poly.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54658588-b864-404b-a804-c702f683174e" name="Default Changelist" comment="" />
+      <created>1632412277058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632412277058</updated>
+      <workItem from="1632412280607" duration="981000" />
+      <workItem from="1632413284347" duration="596000" />
+      <workItem from="1632416474685" duration="48000" />
+      <workItem from="1632417251766" duration="744000" />
+      <workItem from="1632571648207" duration="4578000" />
+      <workItem from="1632667319488" duration="3791000" />
+      <workItem from="1632671703198" duration="692000" />
+      <workItem from="1632760608900" duration="4547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1632572795422">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1632572795422" />
+    <state width="1877" height="459" key="GridCell.Tab.0.bottom" timestamp="1632765041610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1632765041610" />
+    <state width="1877" height="459" key="GridCell.Tab.0.center" timestamp="1632765041610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1632765041610" />
+    <state width="1877" height="459" key="GridCell.Tab.0.left" timestamp="1632765041610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1632765041610" />
+    <state width="1877" height="459" key="GridCell.Tab.0.right" timestamp="1632765041610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1632765041610" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1632572235894">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1632572235894" />
+    <state x="880" y="124" key="SettingsEditor" timestamp="1632416522458">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="880" y="124" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1632416522458" />
+  </component>
+</project>
